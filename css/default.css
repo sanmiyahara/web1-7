@@ -1,1 +1,25 @@
 @charset "utf-8";
+
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color: plum;
+}
+header{
+  background-color:coral;
+}
+#main{
+  background-color:palegreen;
+}
+#main2{
+  background-color:khaki;
+}
+aside{
+  background-color:skyblue;
+}
+footer{
+  background-color:orchid;
+}
