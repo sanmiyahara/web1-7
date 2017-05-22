@@ -21,6 +21,7 @@ header{
   background-color: tomato;
   color: navy;
   width: 240px;
+  height: 80px;
   margin: 5px;
   float: left;
 }
