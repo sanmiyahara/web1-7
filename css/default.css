@@ -43,3 +43,9 @@ footer{
   background-color:orchid;
   clear: both;
 }
+#moons{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
