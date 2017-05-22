@@ -13,7 +13,7 @@ header{
 }
 #main{
   background-color: lavender;
-  width:calc(100% - 200px);
+  width: calc(100% - 200px);
   min-width: 500px;
   float: left;
 }
