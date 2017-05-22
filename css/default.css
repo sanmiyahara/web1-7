@@ -14,6 +14,7 @@ header{
 #main{
   background-color:palegreen;
   width: 500px;
+  float: left;
 }
 #main2{
   background-color:khaki;
